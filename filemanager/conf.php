@@ -6,7 +6,7 @@ $fm['mkdperm'] = 755; 		// default permission to set to new created directories
 // set with fullpath to binary or leave empty
 $pathToExternals['rar'] = '';
 $pathToExternals['zip'] = '';
-$pathToExternals['unzip'] = '';
+$pathToExternals['unzip'] = '/usr/bin/unzip';
 $pathToExternals['tar'] = '';
 
 
